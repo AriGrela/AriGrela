@@ -1,13 +1,9 @@
 ### Hi Everyone! 👋
 <hr>
-- 🔭 Estamos haciendo pruebas en Git
-- 🌱 Aprendiendo Diseño web
-- 👯 Queremos colaborar en temas de UX/UI
-- 🤔 Sabemos que Dani es una experta en Smoke Sales
-- 💬 No me preguntes nada
-- 📫 Whatsapp cuando no funciona
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 
+- 🌱 Learning web design
+- 📚 HTML, CSS, JavaScript and learning.
+- 🖌️ Collabs with UX/UI
 
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AriGrela&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true"></p> 
