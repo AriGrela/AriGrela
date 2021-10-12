@@ -1,7 +1,7 @@
 ### Hi Everyone! 👋
 <hr>
-- 🔭 
-- 🌱 Learning web design
+- 🔭 Looking for new challenges.
+- 🌱 Learning web design.
 - 📚 HTML, CSS, JavaScript and learning.
 - 🖌️ Collabs with UX/UI
 
