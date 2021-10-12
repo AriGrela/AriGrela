@@ -1,5 +1,5 @@
-### Hola a Todos 👋
-
+### Hi Everyone! 👋
+<hr>
 - 🔭 Estamos haciendo pruebas en Git
 - 🌱 Aprendiendo Diseño web
 - 👯 Queremos colaborar en temas de UX/UI
