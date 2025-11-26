@@ -22,6 +22,8 @@ Estudiante de la Tecnicatura Universitaria en Programación (UTN) con experienci
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AriGrela&show_icons=true&theme=dark&count_private=true" alt="AriGrela GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriGrela&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com/?user=AriGrela&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AriGrela&theme=github_dark" alt="GitHub Contribution Graph" />
 </p>
